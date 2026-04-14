@@ -27,7 +27,7 @@ site_author = "<your name here>"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://djblackberry64.github.io/zensical/en"
+site_url = "https://djblackberry64.github.io/zensical/en/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -301,8 +301,8 @@ code = "Jetbrains Mono"
 # ----------------------------------------------------------------------------
 [project.extra]
 alternate = [
-    { name = "English", link = "/", lang = "en" },
-    { name = "Deutsch", link = "/de/", lang = "de" }
+    { name = "English", link = "./", lang = "en" },
+    { name = "Deutsch", link = "./de/", lang = "de" }
 ]
 
 
