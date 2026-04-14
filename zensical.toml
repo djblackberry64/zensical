@@ -299,7 +299,7 @@ code = "Jetbrains Mono"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-[[project.extra]]
+[project.extra]
 alternate = [
     { name = "English", link = "/en/", lang = "en" },
     { name = "Deutsch", link = "/de/", lang = "de" }
