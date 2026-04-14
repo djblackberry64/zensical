@@ -14,14 +14,14 @@ You'll see the overall progression of the curriculum here.
 Please be sure to check for updates as this curriculum is in active development.
 
 <figure class="animate" style="">
-    <a href="./01-foundations/1_intro/"><img title="bre...athe!"src="resources/img/eye-img-2.jpeg" alt="eye with brown iris" id="eye" style="border-radius: 10%;" width="300"></a>
+    <a href="./01-foundations/1_intro/"><img title="bre...athe!"src="../resources/img/eye-img-2.jpeg" alt="eye with brown iris" id="eye" style="border-radius: 10%;" width="300"></a>
     <figcaption id="text">Click to start your journey</figcaption>
 </figure>
 
 ## Support
 
 If you wanna support me, consider buying me a coffee on Ko-fi at<br /><a href="https://ko-fi.com/djblackberry64">Link to site</a><br /> or just click the button down below to get redirected:<br />
-<a href="https://ko-fi.com/djblackberry64"><img src="./resources/img/Ko-Fi-new.jpg" width="400" style="border-radius: 40px;" class="animate"></a>
+<a href="https://ko-fi.com/djblackberry64"><img src="../resources/img/Ko-Fi-new.jpg" width="400" style="border-radius: 40px;" class="animate"></a>
 
 ## Used Program
 
