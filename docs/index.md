@@ -27,15 +27,6 @@ If you wanna support me, consider buying me a coffee on Ko-fi at<br /><a href="h
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org) as this was the static site generator used in this project.
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('djblackberry64', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
 <style>
 .animate:hover {
   animation: pulse 1s infinite ease-in-out;
