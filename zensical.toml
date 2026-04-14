@@ -306,6 +306,10 @@ math = true
 icon = "fontawesome/brands/github"
 link = "https://github.com/djblackberry64/zensical"
 
-#[project.markdown_extensions]
-#"md_in_html" = {}
-#arithmatex = {}
+[project]
+extra_javascript = [
+    "javascripts/mathjax.js",
+    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
+]
+[project.markdown_extensions.pymdownx.arithmatex]
+generic = true
