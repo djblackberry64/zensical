@@ -27,7 +27,7 @@ If you wanna support me, consider buying me a coffee on Ko-fi at<br /><a href="h
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org) as this was the static site generator used in this project.
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js' defer></script>
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js' async></script>
 <script>
   kofiWidgetOverlay.draw('djblackberry64', {
     'type': 'floating-chat',
