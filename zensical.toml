@@ -301,7 +301,7 @@ code = "Jetbrains Mono"
 # ----------------------------------------------------------------------------
 [project.extra]
 alternate = [
-    { name = "English", link = "/en/", lang = "en" },
+    { name = "English", link = "/", lang = "en" },
     { name = "Deutsch", link = "/de/", lang = "de" }
 ]
 
@@ -311,3 +311,15 @@ icon = "fontawesome/brands/github"
 link = "https://github.com/user/repo"
 
 
+[project.plugins.i18n]
+default_language = "en"
+
+[[project.plugins.i18n.languages]]
+locale = "en"
+name = "English"
+build = true
+
+[[project.plugins.i18n.languages]]
+locale = "de"
+name = "Deutsch"
+build = true
