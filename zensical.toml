@@ -273,9 +273,9 @@ toggle.name = "Switch to light mode"
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
-[project.theme.font]
+,[project.theme.font]
 text = "Inter"
-code = "Jetbrains Mono"
+code = "Jetbrains Mono",
 
 # ----------------------------------------------------------------------------
 # You can configure your own logo to be shown in the header using the "logo"
@@ -303,7 +303,7 @@ code = "Jetbrains Mono"
 alternate = [
     { name = "English", link = "/en/", lang = "en" },
     { name = "Deutsch", link = "/de/", lang = "de" }
-]
+],
 
 
 [[project.extra.social]]
