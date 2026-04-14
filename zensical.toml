@@ -299,7 +299,13 @@ code = "Jetbrains Mono"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
+[project.extra]
+math = true
 
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
 link = "https://github.com/djblackberry64/zensical"
+
+[project.markdown_extensions]
+"md_in_html" = {}
+arithmatex = {}
