@@ -299,28 +299,7 @@ code = "Jetbrains Mono"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-[project.extra]
-alternate = [
-    { name = "English", link = "/zensical/", lang = "en" },
-    { name = "Deutsch", link = "/zensical/de/", lang = "de" }
-]
-
 
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
 link = "https://github.com/djblackberry64/zensical"
-
-
-[project.plugins.i18n]
-docs_structure = "folder"
-
-[[project.plugins.i18n.languages]]
-locale = "en"
-name = "English"
-build = true
-default_language = "en"
-
-[[project.plugins.i18n.languages]]
-locale = "de"
-name = "Deutsch"
-build = true
