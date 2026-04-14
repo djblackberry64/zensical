@@ -11,7 +11,7 @@ next: "01-foundations/4_definitions-in-programming-concepts/"
 We have a loooong way ahead of us before we arrive where we are today. Let me take you on a little journey...
 
 <figure>
-    <img src=".././resources/img/biker_embarking_on_journey.jpeg"
+    <img src="../.././resources/img/biker_embarking_on_journey.jpeg"
          alt="Austria, Random Hill" width="300">
     <figcaption>A biker embarking on a journey into the horizon</figcaption>
 </figure>
@@ -116,7 +116,7 @@ All of this was possible because of multiple trends during that time:
 After a boom a crash will follow...
 
 <figure>
-    <img src=".././resources/img/clinical_chairs.jpeg"
+    <img src="../.././resources/img/clinical_chairs.jpeg"
          alt="Two random backfacing chairs, hard contrast and many shadows, dark picture" width="300">
     <figcaption>Two back facing chairs, giving a feeling of abandonment</figcaption>
 </figure>
